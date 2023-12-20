@@ -1,0 +1,10 @@
+Version reducida para correr en equipos con bajo recursos:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
+
+Descargar de Files & Versions: llama-2-7b-chat.ggmlv3.q8_0.bin
+
+---------------------------------------
+
+Version principal(Hay varios modelos con distinto peso)
+https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
+Descargar el modelo de Files & Versions.
