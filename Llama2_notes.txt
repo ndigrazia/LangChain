@@ -8,3 +8,12 @@ Descargar de Files & Versions: llama-2-7b-chat.ggmlv3.q8_0.bin
 Version principal(Hay varios modelos con distinto peso)
 https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
 Descargar el modelo de Files & Versions.
+
+Para ejecutar el modelo LLAMA 2:
+
+1. Deswcargue el modelo desde la url https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+2. Seleccione la opcion "Files & Versions".
+3. Elija la version del modelo (Explore las versiones informadas y seleccione una)
+4. Descargue la version seleccionada.
+5. Copiela al directorio de trabajo. Esto es la carteta seleccionada como "Carpeta del proyecto" en VSC.
+    Puede crear una carpete interna dentro del directorio de trabajo llamada models y alli copiar el modelo descargado.
